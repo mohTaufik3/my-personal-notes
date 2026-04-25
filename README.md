@@ -25,4 +25,3 @@ Buka http://localhost:5173
 ## Info
 - Submission: Pertama (v1)
 - Branch v2: https://github.com/mohTaufik3/my-personal-notes/tree/v2
-EOF
